@@ -1,0 +1,146 @@
+
+.default-tile {
+    -fx-border-color: black;
+    -fx-text-fill: black;
+    -fx-font-size: 30px;
+    -fx-min-width: 60px;
+    -fx-min-height: 60px;
+    -fx-pref-width: 65px;
+    -fx-pref-height: 65px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.present-letter {
+    -fx-background-color: rgb(220, 220, 20);
+    -fx-font-size: 30px;
+    -fx-min-width: 60px;
+    -fx-min-height: 60px;
+    -fx-pref-width: 65px;
+    -fx-pref-height: 65px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.wrong-letter {
+    -fx-background-color: grey;
+    -fx-border-color: grey;
+    -fx-font-size: 30px;
+    -fx-min-width: 60px;
+    -fx-min-height: 60px;
+    -fx-pref-width: 65px;
+    -fx-pref-height: 65px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.correct-letter {
+    -fx-background-color: green;
+    -fx-font-size: 30px;
+    -fx-font-weight: bold;
+    -fx-border-width: 2px;
+    -fx-min-width: 62px;
+    -fx-min-height: 62px;
+    -fx-pref-width: 65px;
+    -fx-pref-height: 65px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.keyboardTile {
+    -fx-background-color: rgb(200, 200, 200);
+    -fx-text-fill: black;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-min-width: 43px;
+    -fx-min-height: 58px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-background-radius: 4px;
+}
+
+.keyboardCorrect {
+    -fx-background-color: green;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-min-width: 43px;
+    -fx-min-height: 58px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-background-radius: 4px;
+}
+
+.keyboardPresent {
+    -fx-background-color: rgb(220, 220, 20);
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-min-width: 43px;
+    -fx-min-height: 58px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-background-radius: 4px;
+}
+
+.keyboardWrong {
+    -fx-background-color: grey;
+    -fx-font-size: 13px;
+    -fx-font-weight: bold;
+    -fx-min-width: 43px;
+    -fx-min-height: 58px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+    -fx-background-radius: 4px;
+}
+
+.correct-letter-example {
+    -fx-background-color: green;
+    -fx-border-color: green;
+    -fx-font-size: 27px;
+    -fx-font-weight: bold;
+    -fx-border-width: 1px;
+    -fx-min-width: 45px;
+    -fx-min-height: 45px;
+    -fx-pref-width: 45px;
+    -fx-pref-height: 45px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.default-letter-example {
+    -fx-text-fill: black;
+    -fx-font-size: 27px;
+    -fx-font-weight: bold;
+    -fx-border-width: 1px;
+    -fx-min-width: 45px;
+    -fx-min-height: 45px;
+    -fx-pref-width: 45px;
+    -fx-pref-height: 45px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.present-letter-example {
+    -fx-background-color: rgb(220, 220, 20);
+    -fx-font-size: 27px;
+    -fx-font-weight: bold;
+    -fx-border-width: 1px;
+    -fx-min-width: 45px;
+    -fx-min-height: 45px;
+    -fx-pref-width: 45px;
+    -fx-pref-height: 45px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
+
+.wrong-letter-example {
+    -fx-background-color: grey;
+    -fx-font-size: 27px;
+    -fx-font-weight: bold;
+    -fx-border-width: 1px;
+    -fx-min-width: 45px;
+    -fx-min-height: 45px;
+    -fx-pref-width: 45px;
+    -fx-pref-height: 45px;
+    -fx-text-alignment: center;
+    -fx-alignment: center;
+}
